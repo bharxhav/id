@@ -1,8 +1,8 @@
-{"a": "l", "b": "1"}
-{"a": "O", "b": "0"}
-{"a": "I", "b": "l"}
-{"a": "X", "b": "K"}
-{"a": "5", "b": "S"}
-{"a": "8", "b": "B"}
-{"a": "Z", "b": "2"}
-{"a": "q", "b": "9"}
+{"a": "l", "b": "1", "font": "Roboto Mono"}
+{"a": "O", "b": "0", "font": "Roboto Mono"}
+{"a": "I", "b": "l", "font": "Fira Code"}
+{"a": "X", "b": "K", "font": "Fira Code"}
+{"a": "5", "b": "S", "font": "JetBrains Mono"}
+{"a": "8", "b": "B", "font": "JetBrains Mono"}
+{"a": "Z", "b": "2", "font": "Source Code Pro"}
+{"a": "q", "b": "9", "font": "Source Code Pro"}
